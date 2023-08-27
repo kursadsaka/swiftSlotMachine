@@ -11,6 +11,7 @@
 		4DDA52722A9B72180082B1F5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DDA52712A9B72180082B1F5 /* ContentView.swift */; };
 		4DDA52742A9B72190082B1F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DDA52732A9B72190082B1F5 /* Assets.xcassets */; };
 		4DDA52772A9B72190082B1F5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DDA52762A9B72190082B1F5 /* Preview Assets.xcassets */; };
+		4DDA527E2A9B729C0082B1F5 /* Hexagonal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DDA527D2A9B729C0082B1F5 /* Hexagonal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4DDA52712A9B72180082B1F5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4DDA52732A9B72190082B1F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4DDA52762A9B72190082B1F5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4DDA527D2A9B729C0082B1F5 /* Hexagonal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hexagonal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4DDA526F2A9B72180082B1F5 /* SlotMachineApp.swift */,
 				4DDA52712A9B72180082B1F5 /* ContentView.swift */,
+				4DDA527D2A9B729C0082B1F5 /* Hexagonal.swift */,
 				4DDA52732A9B72190082B1F5 /* Assets.xcassets */,
 				4DDA52752A9B72190082B1F5 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4DDA527E2A9B729C0082B1F5 /* Hexagonal.swift in Sources */,
 				4DDA52722A9B72180082B1F5 /* ContentView.swift in Sources */,
 				4DDA52702A9B72180082B1F5 /* SlotMachineApp.swift in Sources */,
 			);
